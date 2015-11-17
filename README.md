@@ -9,4 +9,7 @@ objective of this paper was to fulfill the requisites of ECE 5504 Computer Archi
 Fall 2015 at Virginia Tech. However, I may take additional steps to empirically demonstrate the claims made in this paper. 
 
 It is incorrect to copy/steal the ideas of this paper without using proper citation. Thus, please give credit to me and/or
-the authors this paper cites.
+the authors this paper cites. Also, please let me know if you do use this paper or if it inspires you to create something.
+It would be really rewarding for me to know what this paper helps accomplish.
+
+Juan
